@@ -16,7 +16,6 @@ w, h, d = 9 / 2, 14 / 2, 4 / 2
 ply_content = f"""
 ply
 format ascii 1.0
-comment created by ChatGPT
 element vertex 8
 property float x
 property float y
