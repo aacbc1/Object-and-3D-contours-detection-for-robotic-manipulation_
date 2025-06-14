@@ -43,7 +43,6 @@ end_header
 3 4 0 3
 """
 
-# Snimi u fajl
 with open("kakao.ply", "w") as f:
     f.write(ply_content.strip())
 
